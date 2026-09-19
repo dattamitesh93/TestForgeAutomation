@@ -306,19 +306,6 @@ section[id] { scroll-margin-top: 84px; }
 .about-name h2 { font-size: 1.6rem; }
 .role { margin: 0; color: var(--bench-slate); font-size: 0.95rem; }
 .about-copy p { margin: 0 0 1.25rem; }
-.slots {
-  margin-top: 2rem;
-  padding-top: 1.5rem;
-  border-top: 1px solid var(--slate-line);
-}
-.slot-line {
-  margin: 0;
-  font-family: var(--font-head);
-  font-weight: 600;
-  font-size: 1rem;
-  color: var(--bench-slate);
-}
-.slot { margin: 0 0 1rem; font-size: 1.05rem; }
 
 /* Contact and footer */
 .contact { background: var(--deep-graphite); color: var(--warm-cream); }

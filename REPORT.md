@@ -66,8 +66,7 @@ local `git log --oneline -1` -> `547eb6b TestForge Automation one-page site: han
 | Repo is live and pushed | `git ls-remote --heads origin` -> `547eb6b...refs/heads/main`; `gh repo view` -> `"visibility":"PUBLIC"`, `defaultBranchRef.name=main` |
 | Live URL reachable | UNVERIFIED — no deployment was made; the member imports the repo on Vercel |
 
-Deliberate slots left for the member to fill (a real result, quote and timeline were never given, so they are slots, not invented claims):
-`[CLIENT QUOTE]`, `[YOUR RESULT]`, `[YOUR TIMELINE]` — each on its own line under an introducing sentence in the "who they are" section.
+At the member's review the three fill-in slots (`[CLIENT QUOTE]`, `[YOUR RESULT]`, `[YOUR TIMELINE]`) and their introducing lines were removed at the member's request, so the page now carries no bracketed placeholders at all. They were never invented claims; they were the slots the brief asks for where a result, quote or timeline has not been given, and the member chose to drop them rather than fill them.
 
 ## What I would tell the next person
 
